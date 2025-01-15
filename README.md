@@ -61,7 +61,7 @@ The experiments demonstrated the effectiveness of deep learning models for class
 *   The confusion matrices (available in experiments/) show that DenseNet121 struggled to distinguish between 'Mild' and 'Moderate' DR, contributing to its lower overall performance.
 
 A overview of the Accuracy scores-
-![Accuracy](figures/score.png)
+![Accuracy](Figures/score.png)
 ##  Future Work
 *  Explore data augmentation techniques to improve model robustness and generalization.
 *  Investigate different loss functions and optimization strategies.
