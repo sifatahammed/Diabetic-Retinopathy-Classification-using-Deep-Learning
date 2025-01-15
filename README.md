@@ -46,7 +46,7 @@ The project requires the following Python libraries:
 *    matplotlib
 *    seaborn
   
-    **install the requirements:**
+  **install the requirements:**
 
     *    pip install -r requirements.txt
 Create a requirements.txt file using pip freeze > requirements.txt after setting up your environment.
