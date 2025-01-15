@@ -5,7 +5,7 @@ This project performs a comparative analysis of various deep learning models for
 
 
 
-*   This project utilizes the [Kaggle Diabetic Retinopathy Detection]([dataset_link](https://www.kaggle.com/competitions/diabetic-retinopathy-detection/data)) dataset.
+*   This project utilizes the [Kaggle Diabetic Retinopathy Detection](https://www.kaggle.com/competitions/diabetic-retinopathy-detection/data) dataset.
 *   The dataset was composed of a large set of high-resolution retina images taken under a variety of imaging conditions. A left and right field is provided for every subject. Images are labeled with a subject id as well as either left or right (e.g. 1_left.jpeg is the left eye of patient id 1).
 
 A clinician has rated the presence of diabetic retinopathy in each image on a scale of 0 to 4, according to the following scale:
