@@ -58,8 +58,10 @@ The experiments demonstrated the effectiveness of deep learning models for class
 
 *    **Model Performance:** The EfficientNetB6 model achieved the highest accuracy (89%), followed by ResNet50 (84%), CNN (82%), InceptionV3 (81%), and DenseNet121 (73%).
 *    **Cohen's Kappa:** Include the Cohen's Kappa scores for each model here. For example: "EfficientNetB6 also achieved the highest Cohen's Kappa score of 0.85, indicating strong agreement between the model's predictions and the ground truth labels."
-*   The confusion matrices (available in results/) show that DenseNet121 struggled to distinguish between 'Mild' and 'Moderate' DR, contributing to its lower overall performance.
+*   The confusion matrices (available in experiments/) show that DenseNet121 struggled to distinguish between 'Mild' and 'Moderate' DR, contributing to its lower overall performance.
 
+A overview of the Accuracy scores-
+![Accuracy](figures/score.png)
 ##  Future Work
 *  Explore data augmentation techniques to improve model robustness and generalization.
 *  Investigate different loss functions and optimization strategies.
