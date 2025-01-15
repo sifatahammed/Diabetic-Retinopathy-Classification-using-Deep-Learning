@@ -33,7 +33,6 @@ Model performance was evaluated using:
 *   **Accuracy:** The overall percentage of correctly classified images.
 *   **Cohen's Kappa Score:** A metric that measures inter-rater agreement, taking into account the possibility of agreement occurring by chance. This is particularly relevant for multi-class classification problems like DR severity grading.
 
-## Project Structure
 ## Requirements
 
 The project requires the following Python libraries:
