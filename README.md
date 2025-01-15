@@ -36,22 +36,22 @@ Model performance was evaluated using:
 ## Project Structure
 ## Requirements
 
-*The project requires the following Python libraries:
+The project requires the following Python libraries:
 
-*  numpy
-*  pandas
-*  scikit-learn
-*  tensorflow 
-*  keras 
-*  opencv-python
-*  matplotlib
-*  seaborn
-*Install the requirements:
+*    numpy
+*    pandas
+*    scikit-learn
+*    tensorflow 
+*    keras 
+*    opencv-python
+*    matplotlib
+*    seaborn
+Install the requirements:
 
-*  ```bash
-*    pip install -r requirements.txt
+  ```bash
+*    pip install -r requirements.txt   ```
 * Create a requirements.txt file using pip freeze > requirements.txt after setting up your environment.
-
+'''
 ## Results
 The experiments demonstrated the effectiveness of deep learning models for classifying DR severity.
 
