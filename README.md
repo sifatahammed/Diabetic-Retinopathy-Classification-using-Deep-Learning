@@ -48,8 +48,7 @@ The project requires the following Python libraries:
 *    seaborn
 Install the requirements:
 
-  ```bash
-*    pip install -r requirements.txt   ```
+*    pip install -r requirements.txt   
 * Create a requirements.txt file using pip freeze > requirements.txt after setting up your environment.
 '''
 ## Results
