@@ -5,8 +5,8 @@ This project performs a comparative analysis of various deep learning models for
 
 
 
-*   This project utilizes the [Kaggle Diabetic Retinopathy Detection](https://www.kaggle.com/competitions/diabetic-retinopathy-detection/data) dataset.
-*   The dataset was composed of a large set of high-resolution retina images taken under a variety of imaging conditions. A left and right field is provided for every subject. Images are labeled with a subject id as well as either left or right (e.g. 1_left.jpeg is the left eye of patient id 1).
+This project utilizes the [Kaggle Diabetic Retinopathy Detection](https://www.kaggle.com/competitions/diabetic-retinopathy-detection/data) dataset.
+The dataset was composed of a large set of high-resolution retina images taken under a variety of imaging conditions. A left and right field is provided for every subject. Images are labeled with a subject id as well as either left or right (e.g. 1_left.jpeg is the left eye of patient id 1).
 
 A clinician has rated the presence of diabetic retinopathy in each image on a scale of 0 to 4, according to the following scale:
 
@@ -46,14 +46,14 @@ The project requires the following Python libraries:
 *    opencv-python
 *    matplotlib
 *    seaborn
-  *  **install the requirements:**
+    **install the requirements:**
 
     *    pip install -r requirements.txt
 Create a requirements.txt file using pip freeze > requirements.txt after setting up your environment.
 ## Results
 The experiments demonstrated the effectiveness of deep learning models for classifying DR severity.
 
-*  **Key Findings:**
+**Key Findings:**
 
 *    Model Performance: The EfficientNetB6 model achieved the highest accuracy (89%), followed by ResNet50 (84%), CNN (82%), InceptionV3 (81%), and DenseNet121 (73%).
 *    Cohen's Kappa: Include the Cohen's Kappa scores for each model here. For example: "EfficientNetB6 also achieved the highest Cohen's Kappa score of 0.85, indicating strong agreement between the model's predictions and the ground truth labels."
