@@ -1,15 +1,24 @@
-# 🩺 Diabetic Retinopathy Severity Classification using Deep Learning
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" width="100%"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Diabetic+Retinopathy+Classification;Deep+Learning+%7C+Computer+Vision;CNN+%7C+InceptionV3+%7C+ResNet50;DenseNet121+%7C+EfficientNetB6" alt="Typing SVG">
+</p>
+<h1 align="center"> 🩺 Diabetic Retinopathy Severity Classification using Deep Learning</h1>
 
-> A comparative deep-learning study for **5-class diabetic retinopathy (DR) severity classification** from retinal fundus photographs using a custom CNN and four pretrained architectures.
+<p align="center">
+A comparative deep-learning study for **5-class diabetic retinopathy (DR) severity classification** from retinal fundus photographs using a custom CNN and four pretrained architectures.
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/TensorFlow-2.x-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/Keras-Deep%20Learning-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras">
+  <img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
+</p>
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?logo=tensorflow)
-![Keras](https://img.shields.io/badge/Keras-Deep%20Learning-red?logo=keras)
-![OpenCV](https://img.shields.io/badge/OpenCV-Image%20Processing-green?logo=opencv)
-![License](https://img.shields.io/badge/License-MIT-yellow)
-![Status](https://img.shields.io/badge/Project-Research%20%2F%20Academic-informational)
+<p align="center">
+  <img src="https://img.shields.io/badge/License-MIT-F7DF1E?style=for-the-badge" alt="MIT License">
+  <img src="https://img.shields.io/badge/Project-Research%20%2F%20Academic-6366F1?style=for-the-badge" alt="Research Project">
+</p>
 
----
 
 ## 📌 Project Overview
 
@@ -50,13 +59,8 @@ The objective is to compare model behavior on the same preprocessing/evaluation 
 
 ### Static workflow
 
-![Project Workflow](diagram%20%282%29.png)
+![Project Workflow](diagram.png)
 
-### Animated workflow
-
-The animation below highlights each stage of the experimental pipeline:
-
-![Animated DR Classification Workflow](assets/dr_workflow_animation.gif)
 
 **Pipeline:**  
 `Kaggle DR Dataset → Preprocessing → Model Experiments → Evaluation`
@@ -362,6 +366,10 @@ Any clinical-facing deployment would require substantially more validation, moni
 
 ---
 
+### ⭐ Project Summary
+
+**Diabetic Retinopathy Severity Classification using Deep Learning** compares a custom CNN with InceptionV3, ResNet50, DenseNet121, and EfficientNetB6 for 5-class retinal disease severity classification. The reported experiments evaluate models using **Accuracy** and **Cohen's Kappa**, with additional confusion-matrix analysis for understanding class-level errors.
+
 ## 🤝 Contributing
 
 Contributions are welcome.
@@ -388,21 +396,6 @@ git push origin feature/your-feature
 5. Open a Pull Request.
 
 ---
-
-## 📜 License
-
-This project is released under the **MIT License**. See [`LICENSE`](LICENSE) for details.
-
----
-
-## 👤 Author
-
-**Common Sense**
-
-If this project is useful for your research or coursework, consider ⭐ starring the repository.
-
----
-
 ## 🙏 Acknowledgements
 
 - Kaggle Diabetic Retinopathy Detection dataset
@@ -412,7 +405,36 @@ If this project is useful for your research or coursework, consider ⭐ starring
 - Matplotlib and Seaborn
 
 ---
+## 👨‍💻 Author
 
-### ⭐ Project Summary
+<p align="center">
+  <strong>MD Sifat Ahammed Akash</strong>
+</p>
+<p align="center">
+  Full-Stack Developer • React Developer • AI/ML Enthusiast
+</p>
+<p align="center">
+  <a href="mailto:sifatahammed821@gmail.com">
+    <img src="https://img.shields.io/badge/Email-sifatahammed821%40gmail.com-red?logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/sifatahammed">
+    <img src="https://img.shields.io/badge/GitHub-sifatahammed-black?logo=github" alt="GitHub" />
+  </a>
+</p>
 
-**Diabetic Retinopathy Severity Classification using Deep Learning** compares a custom CNN with InceptionV3, ResNet50, DenseNet121, and EfficientNetB6 for 5-class retinal disease severity classification. The reported experiments evaluate models using **Accuracy** and **Cohen's Kappa**, with additional confusion-matrix analysis for understanding class-level errors.
+
+## 📄 License
+
+<div align="center">
+
+MIT License © MD Sifat Ahammed Akash
+</div>
+<div align="center">
+⭐ If this project is useful for your research or coursework, consider giving the repository a star!
+
+Built with ❤️ using Python, TensorFlow, OpenCV, and Keras.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/> </div>
+
+
+
