@@ -74,3 +74,8 @@ Contributions are welcome! Please open an issue or submit a pull request.
 
 ## License
 [MIT License]
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" />
+
+</div>
