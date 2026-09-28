@@ -5,7 +5,7 @@
 <h1 align="center"> 🩺 Diabetic Retinopathy Severity Classification using Deep Learning</h1>
 
 <p align="center">
-A comparative deep-learning study for **5-class diabetic retinopathy (DR) severity classification** from retinal fundus photographs using a custom CNN and four pretrained architectures.
+A comparative deep-learning study for 5-class diabetic retinopathy (DR) severity classification from retinal fundus photographs using a custom CNN and four pretrained architectures.
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
