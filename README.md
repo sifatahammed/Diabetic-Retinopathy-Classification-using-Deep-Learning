@@ -1,3 +1,8 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Diabetic%20Retinopathy%20AI&fontSize=35&fontAlignY=35&animation=twinkling" />
+
+</div>
 # Diabetic-Retinopathy-Severity-Classification-using-Deep-Learning
 This project performs a comparative analysis of various deep learning models for classifying the severity of Diabetic Retinopathy (DR) using fundus images. The models evaluated include CNN, InceptionV3, ResNet50, DenseNet121, and EfficientNetB6. The performance of these models is assessed using accuracy and Cohen's Kappa score.
 
@@ -71,7 +76,13 @@ A overview of the Accuracy scores-
   
 ##  Contributing
 Contributions are welcome! Please open an issue or submit a pull request.
+<div align="center">
 
+## 🐍 GitHub Contribution Animation
+
+![Snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg)
+
+</div>
 ## License
 [MIT License]
 <div align="center">
