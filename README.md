@@ -57,9 +57,7 @@ The objective is to compare model behavior on the same preprocessing/evaluation 
 
 ## 🔄 Project Workflow
 
-### Static workflow
-
-![Project Workflow](diagram.png)
+![Project Workflow](Figures/dia.png)
 
 
 **Pipeline:**  
@@ -134,24 +132,22 @@ The reported experiment produced the following accuracy and Cohen's Kappa scores
 
 ### Accuracy
 
-Accuracy measures the proportion of samples classified correctly:
-
-\[
+$$
 Accuracy = \frac{\text{Correct Predictions}}{\text{Total Predictions}}
-\]
+$$
+
+Accuracy represents the proportion of images that were classified correctly.
 
 ### Cohen's Kappa
 
-Cohen's Kappa measures agreement between predicted and reference labels while accounting for agreement that could occur by chance:
-
-\[
-\kappa = \frac{p_o-p_e}{1-p_e}
-\]
+$$
+\kappa = \frac{p_o - p_e}{1 - p_e}
+$$
 
 where:
 
-- \(p_o\) = observed agreement
-- \(p_e\) = expected agreement by chance
+- $p_o$ = observed agreement
+- $p_e$ = expected agreement by chance
 
 Kappa is useful here because this is a **multi-class classification** problem and class distributions may not be uniform.
 
@@ -209,8 +205,8 @@ The general experimental flow is:
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
-cd <YOUR_REPOSITORY_NAME>
+git clone <[REPOSITORY_URL](https://github.com/sifatahammed/Diabetic-Retinopathy-Classification-using-Deep-Learning)>
+cd Diabetic-Retinopathy-Classification-using-Deep-Learning
 ```
 
 ### 2. Create a virtual environment
